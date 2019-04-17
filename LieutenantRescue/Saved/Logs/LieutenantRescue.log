@@ -1,0 +1,1142 @@
+﻿Log file open, 04/17/19 11:39:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LieutenantRescue
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 9.481529
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.17-18.39.27:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:121][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:381][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.17-18.39.27:381][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:381][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.17-18.39.27:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.17-18.39.27:468][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.17-18.39.27:468][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.17-18.39.27:707][  0]LogHAL: Display: Platform has ~ 16 GB [17064296448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.17-18.39.27:744][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.04.17-18.39.27:744][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.17-18.39.27:763][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.17-18.39.27:763][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Scalability.ini]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.17-18.39.27:764][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.17-18.39.27:809][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.17-18.39.27:809][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.04.17-18.39.27:809][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Config/Windows/Engine.ini]
+[2019.04.17-18.39.27:840][  0]LogInit: Computer: LAPTOP-C6Q164RS
+[2019.04.17-18.39.27:840][  0]LogInit: User: lehai
+[2019.04.17-18.39.27:840][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.17-18.39.27:840][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2019.04.17-18.39.27:841][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.17-18.39.27:841][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.17-18.39.27:841][  0]LogMemory: Process Physical Memory: 97.41 MB used, 97.41 MB peak
+[2019.04.17-18.39.27:841][  0]LogMemory: Process Virtual Memory: 88.79 MB used, 88.79 MB peak
+[2019.04.17-18.39.27:841][  0]LogMemory: Physical Memory: 7149.79 MB used,  9123.99 MB free, 16273.78 MB total
+[2019.04.17-18.39.27:841][  0]LogMemory: Virtual Memory: 4657.33 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.04.17-18.39.29:885][  0]LogInit: Using OS detected language (en-US).
+[2019.04.17-18.39.29:885][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.17-18.39.29:890][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.17-18.39.31:465][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.17-18.39.32:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.17-18.39.32:315][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.17-18.39.39:387][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.17-18.39.39:387][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.17-18.39.39:456][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2019.04.17-18.39.39:456][  0]LogD3D11RHI:       2007/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.17-18.39.39:519][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.04.17-18.39.39:519][  0]LogD3D11RHI:       128/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.17-18.39.39:522][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.17-18.39.39:522][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.17-18.39.39:522][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.17-18.39.39:563][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.17-18.39.39:563][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2019.04.17-18.39.39:563][  0]LogWindows: EnumDisplayDevices:
+[2019.04.17-18.39.39:563][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.04.17-18.39.39:563][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.04.17-18.39.39:563][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.04.17-18.39.39:563][  0]LogWindows:    3. 'NVIDIA GeForce GTX 950M' (P:0 D:0)
+[2019.04.17-18.39.39:563][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.04.17-18.39.39:563][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2019.04.17-18.39.39:563][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.04.17-18.39.39:564][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.04.17-18.39.39:564][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.04.17-18.39.39:620][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.17-18.39.39:705][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.17-18.39.39:792][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.17-18.39.39:792][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.17-18.39.39:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.17-18.39.41:523][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.04.17-18.39.41:585][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.04.17-18.39.41:664][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.04.17-18.39.41:740][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.04.17-18.39.41:824][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.04.17-18.39.41:889][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.04.17-18.39.41:930][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.04.17-18.39.41:975][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.04.17-18.39.42:057][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.04.17-18.39.42:238][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.04.17-18.39.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.04.17-18.39.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.04.17-18.39.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.04.17-18.39.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.04.17-18.39.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.04.17-18.39.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.04.17-18.39.42:369][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.04.17-18.39.42:565][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.04.17-18.39.42:565][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.04.17-18.39.42:648][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.04.17-18.39.42:648][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.04.17-18.39.42:686][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.04.17-18.39.42:737][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.04.17-18.39.42:769][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.04.17-18.39.42:819][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.04.17-18.39.42:950][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.04.17-18.39.42:950][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.04.17-18.39.42:950][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.17-18.39.43:186][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.04.17-18.39.44:186][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Intermediate/Shaders/WorkingDirectory/8280/).
+[2019.04.17-18.39.44:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lehai/AppData/Local/Temp/UnrealShaderWorkingDir/F061A45B4B4DAC0A916F3A81017D1CDC/'.
+[2019.04.17-18.39.44:255][  0]LogXGEController: Cleaning working directory: C:/Users/lehai/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.17-18.39.44:255][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.17-18.39.44:256][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.17-18.39.44:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.17-18.39.48:511][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.17-18.39.49:431][  0]LogDerivedDataCache: Loaded boot cache 0.92s 73MB C:/Users/lehai/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.17-18.39.49:431][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lehai/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.04.17-18.39.49:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.17-18.39.49:432][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.17-18.39.49:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.17-18.39.49:432][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.17-18.39.49:486][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.17-18.39.49:487][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.17-18.39.49:487][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.17-18.39.49:499][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lehai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.17-18.39.49:499][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.17-18.39.49:499][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.17-18.39.49:718][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.17-18.39.49:820][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.17-18.39.49:940][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.17-18.39.51:683][  0]LogAssetRegistry: FAssetRegistry took 0.0383 seconds to start up
+[2019.04.17-18.39.56:975][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.17-18.40.00:298][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.17-18.40.00:298][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.04.17-18.40.00:298][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.17-18.40.00:298][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.17-18.40.00:298][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.17-18.40.00:793][  0]LogNetVersion: LieutenantRescue 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 554191461)
+[2019.04.17-18.40.10:506][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.115863 seconds
+[2019.04.17-18.40.10:548][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.04.17-18.40.10:548][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.04.17-18.40.10:548][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.17-18.40.47:044][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.17-18.40.47:083][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.17-18.40.48:002][  0]SourceControl: Source control is disabled
+[2019.04.17-18.40.48:021][  0]SourceControl: Source control is disabled
+[2019.04.17-18.40.48:155][  0]SourceControl: Source control is disabled
+[2019.04.17-18.40.48:287][  0]SourceControl: Source control is disabled
+[2019.04.17-18.40.49:995][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.17-18.40.50:619][  0]LogOcInput: OculusInput pre-init called
+[2019.04.17-18.40.53:386][  0]LogEngine: Initializing Engine...
+[2019.04.17-18.40.53:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.17-18.40.53:464][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.04.17-18.40.54:834][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.17-18.40.55:402][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.17-18.40.55:555][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-18.40.56:977][  0]LogInit: FAudioDevice initialized.
+[2019.04.17-18.40.56:977][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.17-18.40.57:196][  0]LogDerivedDataCache: Saved boot cache 0.22s 73MB C:/Users/lehai/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.17-18.40.57:212][  0]LogInit: Texture streaming: Enabled
+[2019.04.17-18.40.57:601][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.17-18.40.58:153][  0]LogInit: Transaction tracking system initialized
+[2019.04.17-18.40.59:638][  0]BlueprintLog: New page: Editor Load
+[2019.04.17-18.41.04:011][  0]LocalizationService: Localization service is disabled
+[2019.04.17-18.41.12:168][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/' took 0.07s
+[2019.04.17-18.41.12:168][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.17-18.41.12:168][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.17-18.41.19:312][  0]SourceControl: Source control is disabled
+[2019.04.17-18.41.19:429][  0]LightingResults: New page: Lighting Build
+[2019.04.17-18.41.19:779][  0]MapCheck: New page: Map Check
+[2019.04.17-18.41.19:779][  0]LightingResults: New page: Lighting Build
+[2019.04.17-18.41.20:234][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.04.17-18.41.27:692][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/WeaponImages/WeaponImage3_EG'
+[2019.04.17-18.41.27:692][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/WeaponImages/WeaponImage3_EG'
+[2019.04.17-18.41.27:692][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/FPWeapon/Mesh/SK_FPGun'
+[2019.04.17-18.41.27:692][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/FPWeapon/Mesh/SK_FPGun'
+[2019.04.17-18.41.27:692][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/Crosshairs/T_FPCrosshair'
+[2019.04.17-18.41.27:693][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/Crosshairs/T_FPCrosshair'
+[2019.04.17-18.41.27:693][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/Effects/ParticleSystems/Weapons/RocketLauncher/Muzzle/P_Launcher_MF'
+[2019.04.17-18.41.27:693][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/Effects/ParticleSystems/Weapons/RocketLauncher/Muzzle/P_Launcher_MF'
+[2019.04.17-18.41.27:693][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/Audio/FirstPersonTemplateWeaponFire02'
+[2019.04.17-18.41.27:693][  0]LogLinker: Can't find file '/Game/WeaponComponent/SampleWeapons/Audio/FirstPersonTemplateWeaponFire02'
+[2019.04.17-18.41.27:694][  0]LogLinker: Can't find file '/Game/ThirdPerson/AnimStarterPack/Montages/AM_ReloadRifle'
+[2019.04.17-18.41.27:694][  0]LogLinker: Can't find file '/Game/ThirdPerson/AnimStarterPack/Montages/AM_ReloadRifle'
+[2019.04.17-18.41.27:694][  0]LogLinker: Can't find file '/Game/ThirdPerson/AnimStarterPack/Montages/AM_EquipRifle'
+[2019.04.17-18.41.27:695][  0]LogLinker: Can't find file '/Game/ThirdPerson/AnimStarterPack/Montages/AM_EquipRifle'
+[2019.04.17-18.41.27:695][  0]LogLinker: Can't find file '/Game/ThirdPerson/AnimStarterPack/Montages/AM_UnEquipRifle'
+[2019.04.17-18.41.27:695][  0]LogLinker: Can't find file '/Game/ThirdPerson/AnimStarterPack/Montages/AM_UnEquipRifle'
+[2019.04.17-18.41.53:489][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.17-18.41.54:963][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.17-18.41.55:182][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.04.17-18.41.55:217][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.17-18.41.55:217][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2019.04.17-18.41.55:217][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 35.893
+[2019.04.17-18.41.58:198][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.17-18.41.58:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.17-18.41.58:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.17-18.41.58:237][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.17-18.41.58:502][  0]LogCollectionManager: Loaded 0 collections in 0.002709 seconds
+[2019.04.17-18.41.58:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Collections/' took 0.01s
+[2019.04.17-18.41.58:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/Developers/lehai/Collections/' took 0.00s
+[2019.04.17-18.41.58:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/Collections/' took 0.00s
+[2019.04.17-18.41.58:889][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.17-18.41.58:918][  0]LogContentBrowser: Native class hierarchy populated in 0.0276 seconds. Added 2732 classes and 659 folders.
+[2019.04.17-18.41.59:066][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.17-18.41.59:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.41.59:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.00:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.17-18.42.03:239][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.17-18.42.03:704][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.17-18.42.06:683][  0]LogSlate: Took 0.113034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.17-18.42.06:755][  0]LogSlate: Took 0.068578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.17-18.42.06:814][  0]LogSlate: Took 0.042146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.17-18.42.07:696][  0]LogRenderer: Reallocating scene render targets to support 1072x548 Format 10 NumSamples 1 (Frame:1).
+[2019.04.17-18.42.09:200][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.17-18.42.09:200][  0]LogLoad: (Engine Initialization) Total time: 189.55 seconds
+[2019.04.17-18.42.09:200][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.17-18.42.09:650][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.17-18.42.09:846][  0]LogSlate: Took 0.039731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.17-18.42.09:922][  1]LogAssetRegistry: Asset discovery search completed in 138.2630 seconds
+[2019.04.17-18.42.09:954][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.17-18.42.09:955][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.04.17-18.50.30:307][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-18.50.30:424][615]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-18.50.30:435][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.17-18.50.30:435][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-18.50.30:519][615]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 17, 2019, 4:50:30 AM)
+[2019.04.17-18.50.30:587][615]LogPlayLevel: Creating play world package: /Game/WeaponComponent/UnnecessaryContent/Map/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.17-18.50.30:614][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026555s)
+[2019.04.17-18.50.30:615][615]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.17-18.50.30:615][615]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2019.04.17-18.50.30:615][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/WeaponComponent/UnnecessaryContent/Map/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028299s)
+[2019.04.17-18.50.30:648][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.04.17-18.50.30:683][615]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-18.50.30:707][615]LogInit: FAudioDevice initialized.
+[2019.04.17-18.50.31:871][615]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.17-18.50.31:892][615]LogWorld: Bringing World /Game/WeaponComponent/UnnecessaryContent/Map/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.04.17-11.50.31
+[2019.04.17-18.50.31:896][615]LogWorld: Bringing up level for play took: 0.007528
+[2019.04.17-18.50.31:927][615]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.17-18.50.32:025][615]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.17-18.50.32:025][615]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.17-18.50.32:025][615]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.17-18.50.32:025][615]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.17-18.50.32:366][615]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.17-18.50.32:377][615]PIE: Play in editor start time for /Game/WeaponComponent/UnnecessaryContent/Map/UEDPIE_0_ThirdPersonExampleMap 1.782
+[2019.04.17-18.50.32:377][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.17-18.54.16:537][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.17-18.54.16:539][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.17-18.54.16:606][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.17-18.54.16:606][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.17-18.54.16:682][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.17-18.54.16:705][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.04.17-18.54.16:735][965]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.17-18.54.18:890][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.17-18.54.21:192][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-18.55.14:181][970]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.17-18.55.50:478][970]LogSlate: Window 'FBX Export Options' being destroyed
+[2019.04.17-18.55.50:723][970]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2019.04.17-18.58.05:661][413]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/WeaponComponent/UnnecessaryContent/Weapons/T/MagGunT1_shade.MagGunT1_shade
+[2019.04.17-18.58.05:735][413]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.17-18.58.09:201][606]LogSlate: Window 'MagGunT1_shade' being destroyed
+[2019.04.17-18.58.22:189][380]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.04.17-18.58.22:393][381]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.17-18.58.22:393][381]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.04.17-18.58.22:393][381]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.17-18.58.22:393][381]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.17-18.58.22:427][381]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.04.17-18.58.22:495][382]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.04.17-18.58.22:543][383]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.04.17-18.58.22:662][385]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.04.17-18.58.22:925][386]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2019.04.17-18.58.22:988][387]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2019.04.17-18.58.23:041][388]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2019.04.17-18.58.23:089][389]LogMaterial: Display: Missing cached shader map for material Material_8, compiling. 
+[2019.04.17-18.58.27:918][661]LogShaderCompilers: Display: Shaders left to compile 347
+[2019.04.17-18.58.28:037][668]LogShaderCompilers: Display: Shaders left to compile 337
+[2019.04.17-18.58.28:717][702]LogShaderCompilers: Display: Shaders left to compile 327
+[2019.04.17-18.58.30:589][788]LogShaderCompilers: Display: Shaders left to compile 317
+[2019.04.17-18.58.30:961][807]LogShaderCompilers: Display: Shaders left to compile 307
+[2019.04.17-18.58.31:109][810]LogShaderCompilers: Display: Shaders left to compile 297
+[2019.04.17-18.58.31:182][814]LogShaderCompilers: Display: Shaders left to compile 287
+[2019.04.17-18.58.33:831][941]LogShaderCompilers: Display: Shaders left to compile 277
+[2019.04.17-18.58.33:887][944]LogShaderCompilers: Display: Shaders left to compile 267
+[2019.04.17-18.58.34:294][963]LogShaderCompilers: Display: Shaders left to compile 257
+[2019.04.17-18.58.36:286][ 58]LogShaderCompilers: Display: Shaders left to compile 247
+[2019.04.17-18.58.37:080][ 96]LogShaderCompilers: Display: Shaders left to compile 237
+[2019.04.17-18.58.38:702][186]LogShaderCompilers: Display: Shaders left to compile 227
+[2019.04.17-18.58.38:875][194]LogShaderCompilers: Display: Shaders left to compile 217
+[2019.04.17-18.58.39:108][207]LogShaderCompilers: Display: Shaders left to compile 207
+[2019.04.17-18.58.40:508][287]LogShaderCompilers: Display: Shaders left to compile 197
+[2019.04.17-18.58.42:079][379]LogShaderCompilers: Display: Shaders left to compile 187
+[2019.04.17-18.58.42:115][381]LogShaderCompilers: Display: Shaders left to compile 177
+[2019.04.17-18.58.43:205][444]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.04.17-18.58.43:946][488]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.04.17-18.58.45:453][576]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.04.17-18.58.45:927][604]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.04.17-18.58.46:496][638]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.04.17-18.58.47:644][704]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.04.17-18.58.49:462][810]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.04.17-18.58.50:088][846]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.04.17-18.58.50:578][876]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.04.17-18.58.50:793][887]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.04.17-18.58.52:245][950]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle.Rifle
+[2019.04.17-18.58.52:491][950]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.17-18.58.53:383][950]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.17-18.58.53:579][950]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.04.17-18.58.53:579][950]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.17-18.58.53:580][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-18.58.53:657][950]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.04.17-18.58.54:077][950]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.17-18.58.54:857][950]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.04.17-18.58.55:097][950]LogSlate: Took 0.019892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.17-18.58.55:312][950]LogRenderer: Reallocating scene render targets to support 1072x672 Format 10 NumSamples 1 (Frame:1).
+[2019.04.17-18.58.55:945][972]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.17-18.58.56:136][976]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.17-18.58.57:262][ 23]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.17-18.59.07:504][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-18.59.15:096][751]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/WeaponComponent/UnnecessaryContent/Weapons/Materials/MagGunA.MagGunA
+[2019.04.17-18.59.15:385][751]LogRenderer: Reallocating scene render targets to support 1072x708 Format 10 NumSamples 1 (Frame:1).
+[2019.04.17-18.59.21:790][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-18.59.31:117][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-18.59.44:648][387]LogSlate: Window 'MagGunA' being destroyed
+[2019.04.17-19.05.17:824][455]LogStaticMesh: Building static mesh Cube...
+[2019.04.17-19.05.17:869][455]LogStaticMesh: Built static mesh [0.06s] /Game/WeaponComponent/UnnecessaryContent/Weapons/T/Cube.Cube
+[2019.04.17-19.05.19:566][550]LogActorFactory: Actor Factory created Cube
+[2019.04.17-19.05.20:131][580]LogActorFactory: Actor Factory created Cube
+[2019.04.17-19.05.25:822][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.06.21:318][913]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Cube0C0D69174A40A24BCCD1A0BBA981930F.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/WeaponComponent/UnnecessaryContent/Weapons/Materials/Cube.uasset'
+[2019.04.17-19.06.21:479][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.04.17-19.06.21:512][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.04.17-19.06.21:540][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.04.17-19.06.59:728][871]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Cube8221C4C24872667444EDAAB719275E9F.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/WeaponComponent/UnnecessaryContent/MaterialExport/Cube.uasset'
+[2019.04.17-19.06.59:884][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.04.17-19.06.59:920][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.04.17-19.06.59:946][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.04.17-19.07.22:640][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.28:376][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.30:463][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.33:385][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.35:985][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.39:478][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.41:447][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.43:724][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.46:986][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.48:561][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.50:224][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.51:319][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.53:349][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.07.56:091][811]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.56:091][811]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.56:211][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.56:435][821]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.56:436][821]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.56:523][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.56:776][834]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.56:776][834]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.56:862][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.57:302][859]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.57:302][859]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.57:393][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.57:730][878]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.57:730][878]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.57:819][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.57:976][884]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.57:976][884]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.58:065][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.58:203][891]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.58:203][891]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.58:295][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.58:423][897]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.58:423][897]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.58:516][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.58:639][903]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.58:639][903]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.58:733][903]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.58:843][908]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.58:843][908]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.58:933][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.59:216][923]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.59:216][923]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.59:312][923]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.59:635][941]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.59:635][941]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.07.59:727][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.07.59:985][955]Cmd: TRANSACTION UNDO
+[2019.04.17-19.07.59:985][955]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.08.00:078][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.08.00:435][975]Cmd: TRANSACTION UNDO
+[2019.04.17-19.08.00:435][975]LogEditorTransaction: Undo Scale Actors
+[2019.04.17-19.08.00:528][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.08.04:775][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.08.08:765][452]Cmd: TRANSACTION UNDO
+[2019.04.17-19.08.08:765][452]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.08.08:851][452]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.08.09:758][503]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rifle)
+[2019.04.17-19.08.14:063][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.08.16:688][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.08.18:267][925]Cmd: TRANSACTION UNDO
+[2019.04.17-19.08.18:267][925]LogEditorTransaction: Undo Create Actors
+[2019.04.17-19.08.18:360][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.08.20:952][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.08.26:826][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.08.38:587][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.08.38:731][951]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2019.04.17-19.08.38:765][951]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle.Rifle
+[2019.04.17-19.08.40:239][ 31]Cmd: TRANSACTION UNDO
+[2019.04.17-19.08.40:239][ 31]LogEditorTransaction: Undo Persona editor: material changed
+[2019.04.17-19.08.40:269][ 31]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2019.04.17-19.08.40:303][ 31]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle.Rifle
+[2019.04.17-19.08.40:388][ 31]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.08.59:315][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.09.39:812][152]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/MI_RifleSightE0806BA645214690FE8B81B5ED27B9BD.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/WeaponComponent/UnnecessaryContent/MaterialExport/MI_RifleSight.uasset'
+[2019.04.17-19.09.39:947][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.04.17-19.09.39:979][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.04.17-19.09.40:006][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.04.17-19.10.15:223][912]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/RifleBottemB029928343C001ACAA72C0AD236A6410.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/WeaponComponent/UnnecessaryContent/MaterialExport/RifleBottem.uasset'
+[2019.04.17-19.10.15:357][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.04.17-19.10.15:391][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.04.17-19.10.15:419][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.04.17-19.10.39:054][155]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/RifleTopCF8923994CE84381373E3596AE75B9E7.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Content/WeaponComponent/UnnecessaryContent/MaterialExport/RifleTop.uasset'
+[2019.04.17-19.10.39:185][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.04.17-19.10.39:220][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.04.17-19.10.39:246][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.04.17-19.10.46:540][568]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rifle)
+[2019.04.17-19.10.47:957][652]Cmd: DELETE
+[2019.04.17-19.10.47:957][652]Cmd: ACTOR DELETE
+[2019.04.17-19.10.48:133][652]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.04.17-19.10.48:162][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.04.17-19.10.48:163][652]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2019.04.17-19.10.52:183][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.04.17-19.10.52:891][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.17-19.10.53:599][973]Cmd: DELETE
+[2019.04.17-19.10.53:599][973]Cmd: ACTOR DELETE
+[2019.04.17-19.10.53:602][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.17-19.10.53:631][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.04.17-19.10.53:631][973]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.04.17-19.10.54:409][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.10.54:620][ 30]LogActorFactory: Actor Factory created Cube
+[2019.04.17-19.10.55:057][ 56]LogActorFactory: Actor Factory created Cube
+[2019.04.17-19.11.01:255][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.11.03:832][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.11.05:351][644]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube.Cube
+[2019.04.17-19.11.11:673][945]LogStaticMesh: Building static mesh Cube...
+[2019.04.17-19.11.11:685][945]LogStaticMesh: Built static mesh [0.02s] /Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube.Cube
+[2019.04.17-19.11.44:751][ 33]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.17-19.11.44:768][ 33]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer RifleTop, compiling. 
+[2019.04.17-19.11.44:795][ 33]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer RifleTop, compiling. 
+[2019.04.17-19.11.47:516][ 33]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.17-19.11.47:516][ 33]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.17-19.11.47:516][ 33]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.17-19.11.47:516][ 33]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.17-19.11.47:516][ 33]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.17-19.11.47:516][ 33]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.17-19.11.47:517][ 33]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.17-19.11.47:517][ 33]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer RifleTop, compiling. 
+[2019.04.17-19.11.47:707][ 33]LogTexture: Display: Building textures: T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_BaseColor (BGRA8, 1X1)
+[2019.04.17-19.11.47:741][ 33]LogTexture: Display: Building textures: T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Specular (BGRA8, 1024X1024)
+[2019.04.17-19.11.47:819][ 33]LogTexture: Display: Building textures: T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Normal (BGRA8, 1X1)
+[2019.04.17-19.11.47:834][ 33]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.04.17-19.11.47:952][ 34]LogShaderCompilers: Display: Shaders left to compile 208
+[2019.04.17-19.11.47:952][ 34]LogShaderCompilers: Display: Shaders left to compile 198
+[2019.04.17-19.11.47:952][ 34]LogShaderCompilers: Display: Shaders left to compile 188
+[2019.04.17-19.11.47:952][ 34]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.04.17-19.11.50:395][156]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.04.17-19.11.50:614][165]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.04.17-19.11.50:972][179]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.04.17-19.11.53:308][269]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.04.17-19.11.53:828][290]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.04.17-19.11.54:243][307]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.04.17-19.11.55:687][365]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.04.17-19.11.56:556][401]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.04.17-19.11.57:447][436]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245.T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_BaseColor
+[2019.04.17-19.11.57:857][454]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.04.17-19.11.58:770][506]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.04.17-19.11.58:784][508]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.17-19.11.59:728][564]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.04.17-19.12.01:525][667]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.17-19.12.01:661][675]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.04.17-19.12.02:723][737]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.17-19.12.03:512][783]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.17-19.12.04:242][826]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.17-19.12.07:074][939]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245.T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Normal
+[2019.04.17-19.12.09:121][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.04.17-19.12.09:777][ 51]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/ThirdPersonExampleMap_Auto11AF8E4B9474367F2AF564580560F57F5.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap_Auto1.umap'
+[2019.04.17-19.12.09:786][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap' took 0.694
+[2019.04.17-19.12.09:786][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.694
+[2019.04.17-19.12.09:788][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle] ([1] browsable assets)...
+[2019.04.17-19.12.09:804][ 51]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle.Rifle]
+[2019.04.17-19.12.09:804][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle]
+[2019.04.17-19.12.09:863][ 51]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Rifle_Auto149B8C84B4802FD27C060DC97C7952736.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/Rifle_Auto1.uasset'
+[2019.04.17-19.12.09:864][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WeaponComponent/UnnecessaryContent/Weapons/Materials/MagGunA] ([1] browsable assets)...
+[2019.04.17-19.12.09:883][ 51]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/WeaponComponent/UnnecessaryContent/Weapons/Materials/MagGunA.MagGunA]
+[2019.04.17-19.12.09:883][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/WeaponComponent/UnnecessaryContent/Weapons/Materials/MagGunA]
+[2019.04.17-19.12.09:914][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.04.17-19.12.09:929][ 51]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.04.17-19.12.10:723][ 51]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.17-19.12.10:723][ 51]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.17-19.12.10:727][ 51]TextureStreamingBuild: Display: Compiling optional shaders took 0.813 seconds.
+[2019.04.17-19.12.10:775][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.04.17-19.12.10:803][ 51]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/MagGunA_Auto16D55C9FF4BEABCF119BD428E6DFDA671.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/Weapons/Materials/MagGunA_Auto1.uasset'
+[2019.04.17-19.12.10:804][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube] ([1] browsable assets)...
+[2019.04.17-19.12.10:820][ 51]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube.Cube]
+[2019.04.17-19.12.10:820][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube]
+[2019.04.17-19.12.10:844][ 51]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Cube_Auto174E5BB51493B962435783C93C00AA666.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube_Auto1.uasset'
+[2019.04.17-19.12.10:845][ 51]OBJ SavePackage: Generating thumbnails for [4] asset(s) in package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245] ([4] browsable assets)...
+[2019.04.17-19.12.10:861][ 51]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245.M_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245]
+[2019.04.17-19.12.10:861][ 51]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245.T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_BaseColor]
+[2019.04.17-19.12.10:871][ 51]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245.T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Specular]
+[2019.04.17-19.12.10:871][ 51]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245.T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Normal]
+[2019.04.17-19.12.10:871][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245]
+[2019.04.17-19.12.10:889][ 51]LogTexture: Display: Building textures: T_M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Specular (DXT1, 1024X1024)
+[2019.04.17-19.12.10:995][ 51]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/M_Cube_RifleTop_00C88DB1466A9E64A1A7BE6E4562FF829FD4F0ACBB33FA50.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_RifleTop_00C88DB1466A9E6490C1DDAE41843245_Auto1.uasset'
+[2019.04.17-19.12.10:997][ 51]LogFileHelpers: Auto-saving content packages took 1.210
+[2019.04.17-19.12.43:716][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-19.12.52:183][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-19.13.16:032][359]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/WeaponComponent/UnnecessaryContent/Weapons/Mesh/SK_FPGun.SK_FPGun
+[2019.04.17-19.13.16:054][359]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.17-19.13.16:077][359]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.17-19.13.24:767][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.13.54:253][ 73]LogSlate: Window 'FBX Export Options' being destroyed
+[2019.04.17-19.13.54:273][ 73]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2019.04.17-19.17.01:803][710]LogAssetEditorManager: Opening Asset editor for Material /Game/WeaponComponent/UnnecessaryContent/Weapons/Materials/M_FPGun.M_FPGun
+[2019.04.17-19.17.01:812][710]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.04.17-19.17.02:222][710]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.04.17-19.17.02:298][710]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.04.17-19.17.02:298][710]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.04.17-19.17.02:298][710]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.04.17-19.17.02:298][710]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.04.17-19.17.02:312][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2019.04.17-19.17.02:320][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.04.17-19.17.02:340][710]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.04.17-19.17.02:455][710]LogSlate: Took 0.025342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.17-19.17.02:827][711]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.04.17-19.17.02:827][711]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.04.17-19.17.02:828][711]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.04.17-19.17.02:828][711]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.04.17-19.17.02:853][712]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.04.17-19.17.02:979][720]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.04.17-19.17.03:095][727]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.04.17-19.17.03:113][728]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.04.17-19.17.03:216][733]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.04.17-19.17.03:405][745]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.04.17-19.17.03:416][746]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.04.17-19.17.03:430][747]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.04.17-19.17.03:564][755]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.04.17-19.17.03:755][765]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.04.17-19.17.03:790][767]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.04.17-19.17.03:803][768]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.04.17-19.17.03:942][777]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.04.17-19.17.04:092][786]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.04.17-19.17.04:175][791]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.04.17-19.17.04:192][792]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.04.17-19.17.04:309][799]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.04.17-19.17.04:475][809]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.04.17-19.17.04:475][809]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.04.17-19.17.04:609][817]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.04.17-19.17.04:626][818]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.04.17-19.17.04:696][822]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.04.17-19.17.04:761][826]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.04.17-19.17.04:828][830]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.04.17-19.17.04:893][834]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.04.17-19.17.04:927][836]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.04.17-19.17.05:072][843]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.04.17-19.17.05:316][858]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.04.17-19.17.05:482][868]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.04.17-19.17.05:599][875]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.04.17-19.17.05:735][883]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.04.17-19.17.05:867][891]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.04.17-19.17.06:017][900]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.04.17-19.17.06:294][916]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.04.17-19.17.06:313][917]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.04.17-19.17.06:512][929]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.04.17-19.17.06:595][934]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.04.17-19.17.06:679][939]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.04.17-19.17.06:913][953]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.04.17-19.17.06:995][958]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.04.17-19.17.07:147][967]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.04.17-19.17.07:261][974]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.04.17-19.17.07:278][975]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.04.17-19.17.07:344][979]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.04.17-19.17.07:395][982]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.04.17-19.17.07:512][989]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.04.17-19.17.07:595][994]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.04.17-19.17.07:679][999]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.04.17-19.17.07:695][  0]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.04.17-19.17.07:878][ 11]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.04.17-19.17.07:878][ 11]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.04.17-19.17.07:960][ 16]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.04.17-19.17.08:011][ 19]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.04.17-19.17.08:229][ 32]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.04.17-19.17.08:245][ 33]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.17-19.17.08:261][ 34]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.04.17-19.17.08:328][ 38]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.17-19.17.08:530][ 50]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.17-19.17.08:546][ 51]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.17-19.17.08:562][ 52]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.17-19.17.08:747][ 63]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.04.17-19.17.08:795][ 66]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.04.17-19.17.08:862][ 70]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.04.17-19.17.09:028][ 80]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.04.17-19.17.09:028][ 80]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.04.17-19.17.09:046][ 81]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.04.17-19.17.09:161][ 88]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.04.17-19.17.09:446][105]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.04.17-19.17.09:664][118]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.17-19.17.09:797][126]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.04.17-19.17.09:797][126]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.04.17-19.17.10:032][140]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.17-19.17.10:133][146]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.04.17-19.17.10:413][163]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.04.17-19.17.10:433][164]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.17-19.17.10:750][183]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.04.17-19.17.10:782][185]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.17-19.17.10:898][192]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.17-19.17.11:116][205]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.17-19.17.11:249][213]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.17-19.17.11:382][221]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.17-19.17.11:599][234]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.17-19.17.11:615][235]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.04.17-19.17.11:648][237]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.04.17-19.17.11:732][242]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.17-19.17.11:866][250]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.04.17-19.17.11:985][257]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.04.17-19.17.12:033][260]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.04.17-19.17.12:100][264]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.04.17-19.17.12:266][274]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.04.17-19.17.12:418][283]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.17-19.17.12:436][284]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.04.17-19.17.12:452][285]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.17-19.17.12:536][290]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.17-19.17.12:765][303]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.17-19.17.12:765][303]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.17-19.17.12:799][305]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.17-19.17.12:866][309]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.17-19.17.13:119][324]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.17-19.17.13:145][325]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.17-19.17.13:160][326]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.17-19.17.13:389][333]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.17-19.17.13:483][336]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.17-19.17.13:498][337]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.17-19.17.13:564][339]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.17-19.17.13:598][340]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.17-19.17.13:760][345]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.17-19.17.14:013][357]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.17-19.17.14:231][370]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.17-19.17.14:366][378]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.17-19.17.14:544][386]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.17-19.17.14:613][390]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.17-19.17.14:777][400]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.17-19.17.15:010][414]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.17-19.17.15:028][415]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.17-19.17.15:381][435]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.17-19.17.15:400][437]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.17-19.17.15:415][438]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.17-19.17.15:693][448]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.17-19.17.15:722][449]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.17-19.17.16:164][464]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.17-19.17.16:182][465]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.17-19.17.16:211][466]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.17-19.17.16:311][469]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.17-19.17.16:335][469]MaterialEditorStats: Base pass shader: 114 instructions
+[2019.04.17-19.17.16:335][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.04.17-19.17.16:336][469]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.04.17-19.17.16:336][469]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2019.04.17-19.17.16:336][469]MaterialEditorStats: Texture samplers: 5/16
+[2019.04.17-19.17.16:336][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.04.17-19.17.16:336][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.04.17-19.17.18:373][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.17.28:742][907]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.17-19.18.12:463][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-19.18.38:034][696]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.17-19.18.38:049][696]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_FPGun, compiling. 
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.17-19.18.40:982][696]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.17-19.18.40:983][696]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.17-19.18.41:012][696]LogTexture: Display: Building textures: T_M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0_BaseColor (BGRA8, 1024X1024)
+[2019.04.17-19.18.41:131][696]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.04.17-19.18.41:268][696]LogShaderCompilers: Display: Shaders left to compile 218
+[2019.04.17-19.18.41:268][696]LogShaderCompilers: Display: Shaders left to compile 208
+[2019.04.17-19.18.41:268][696]LogShaderCompilers: Display: Shaders left to compile 198
+[2019.04.17-19.18.41:269][696]LogShaderCompilers: Display: Shaders left to compile 188
+[2019.04.17-19.18.44:001][819]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.04.17-19.18.44:157][826]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.04.17-19.18.44:576][843]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.04.17-19.18.46:189][905]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.04.17-19.18.47:186][947]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.04.17-19.18.48:280][994]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.04.17-19.18.49:137][ 38]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.04.17-19.18.49:590][ 65]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.04.17-19.18.52:357][223]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.04.17-19.18.52:429][227]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.04.17-19.18.52:992][258]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.04.17-19.18.53:026][260]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.04.17-19.19.05:437][334]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.04.17-19.19.05:437][334]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.04.17-19.19.05:437][334]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.04.17-19.19.05:437][334]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.17-19.19.05:437][334]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.17-19.19.05:437][334]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.17-19.22.11:704][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.04.17-19.22.12:816][998]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/ThirdPersonExampleMap_Auto2915C736A470D2B9CD8FC23A1EA86D331.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap_Auto2.umap'
+[2019.04.17-19.22.12:822][998]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap' took 1.187
+[2019.04.17-19.22.12:822][998]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.187
+[2019.04.17-19.22.12:827][998]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube] ([1] browsable assets)...
+[2019.04.17-19.22.12:866][998]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube.Cube]
+[2019.04.17-19.22.12:867][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube]
+[2019.04.17-19.22.12:893][998]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Cube_Auto2EBFD4C204A24C282F20F96BEA85BD999.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/MaterialExport/Cube_Auto2.uasset'
+[2019.04.17-19.22.12:917][998]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0] ([2] browsable assets)...
+[2019.04.17-19.22.12:938][998]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0.M_M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0]
+[2019.04.17-19.22.12:949][998]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0.T_M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0_BaseColor]
+[2019.04.17-19.22.12:949][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0]
+[2019.04.17-19.22.12:953][998]LogTexture: Display: Building textures: T_M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0_BaseColor (DXT1, 1024X1024)
+[2019.04.17-19.22.13:149][998]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/M_Cube_M_FPGun_05A13F3E4C2CC931768DBB1F143A181912465D78889DF3B69.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/MaterialExport/M_Cube_M_FPGun_05A13F3E4C2CC931788700B736FC34B0_Auto2.uasset'
+[2019.04.17-19.22.13:151][998]LogFileHelpers: Auto-saving content packages took 0.324
+[2019.04.17-20.30.46:913][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.17-20.30.48:356][876]Cmd: DELETE
+[2019.04.17-20.30.48:356][876]Cmd: ACTOR DELETE
+[2019.04.17-20.30.48:407][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.17-20.30.48:471][876]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2019.04.17-20.30.48:474][876]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.04.17-20.30.57:303][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-20.31.35:357][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.04.17-20.31.36:034][340]LogSavePackage: Moving '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/ThirdPersonExampleMap_Auto3B5D1BE4E4F3A0B1A7F27A38531B23E9C.tmp' to '../../../../../../Users/lehai/Desktop/GameDev Unreal/Lieutenant Rescue/Unreal/LieutenantRescue/Saved/Autosaves/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap_Auto3.umap'
+[2019.04.17-20.31.36:039][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WeaponComponent/UnnecessaryContent/Map/ThirdPersonExampleMap' took 0.715
+[2019.04.17-20.31.36:040][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.715
